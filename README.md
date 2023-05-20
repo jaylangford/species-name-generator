@@ -1,0 +1,1 @@
+species-name-generator is a simple project demonstrating the ability of neural networks to generate text. Using Python and fastai, we can train the neural network on publicly available species name data to generate new, latin-sounding, [binomial names](https://en.wikipedia.org/wiki/Binomial_nomenclature).
