@@ -15,7 +15,7 @@ Some example outputs (cherry-picked):
 
 The model design closely resembles the one in [pytorch-charRNN](https://github.com/mcleonard/pytorch-charRNN). 
 
-Inspiration for this project came from [banned-license-plates](ttps://github.com/jnolis/banned-license-plates/tree/main).
+Inspiration for this project came from [banned-license-plates](https://github.com/jnolis/banned-license-plates/tree/main).
 
 Data come from the National Library of Medicine's National Center for Biotechnology Information. Download the data [here](https://ftp.ncbi.nih.gov/pub/taxonomy/).
 
