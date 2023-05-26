@@ -50,8 +50,8 @@ def main():
         species_names_df.str.len().le(35)
        ]  # filter out really long names. sorry, Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis
 
-    print(species_names_df)
-    #species_names_df.to_csv("data/species.csv", header=False, index=False)
+    #print(species_names_df)
+    species_names_df.to_csv("data/species.csv", header=False, index=False)
 
 
 if __name__ == '__main__':
